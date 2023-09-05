@@ -1,3 +1,4 @@
+/* RL Test add comment */
 cas sascas1; /**/
 libname mycas cas caslib = "casuser"; /**/
 
