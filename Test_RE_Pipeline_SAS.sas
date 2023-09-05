@@ -22,7 +22,6 @@ data mycas.mktdata; /**/
    rf1 = 1;
    rf2 = 2;
    rf3 = 3;
-   rf4 = 4;
    output;
 run;
 quit;
