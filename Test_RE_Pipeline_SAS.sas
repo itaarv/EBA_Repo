@@ -1,7 +1,7 @@
 /* RL Test add comment test */
 cas sascas1; /**/
 libname mycas cas caslib = "casuser"; /**/
-
+/* this is my change - Jimmy */
 data mycas.instdata1; /**/
    length
       instid   varchar(*)
