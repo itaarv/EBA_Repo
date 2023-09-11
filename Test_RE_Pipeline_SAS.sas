@@ -1,7 +1,6 @@
 
 cas sascas1; /**/
 libname mycas cas caslib = "casuser"; /**/
-/* this is my change */
 
 data mycas.instdata1; /**/
    length
