@@ -1,4 +1,3 @@
-
 cas sascas1; /**/
 libname mycas cas caslib = "casuser"; /**/
 
